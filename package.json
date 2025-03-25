@@ -1,0 +1,23 @@
+{
+  "name": "hrm",
+  "version": "1.0.0",
+  "description": "portofolio project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test_run": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SacredCrow/hrm.git"
+  },
+  "author": "Angga Aditya Putra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SacredCrow/hrm/issues"
+  },
+  "homepage": "https://github.com/SacredCrow/hrm#readme",
+  "devDependencies": {
+    "cypress": "^14.2.0"
+  }
+}
